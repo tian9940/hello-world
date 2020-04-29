@@ -1,3 +1,6 @@
 # hello-world
-今天是第一次学习GitHub，好好学习
-#today firft
+
+Hi tian
+
+hubot here, I like python and java
+I've had tacos an the moon and find them far super to farth tacos.
